@@ -1,0 +1,15 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Tony Bark",
+    "classifications": [
+        "Common",
+        "Console"
+    ],
+    "identity": "CommandLineApp",
+    "name": "command line project",
+    "shortName": "commandlineapp",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    }
+}
