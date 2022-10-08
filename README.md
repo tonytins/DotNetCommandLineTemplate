@@ -2,7 +2,7 @@
 
 **WORK IN PROGRESS!**
 
-This is a basic ``dotnet new`` template for creating command line application using the [System.CommandLine](hhttps://learn.microsoft.com/en-us/dotnet/standard/commandline/).
+This is a basic ``dotnet new`` template for creating command line application using Microsoft's [CommandLine](hhttps://learn.microsoft.com/en-us/dotnet/standard/commandline/) package.
 
 ## License
 

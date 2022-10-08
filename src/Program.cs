@@ -5,10 +5,6 @@
 var rootCmd = new RootCommand("Your simple command line app");
 rootCmd.AddOption(fileOpt);
 
-/// <summary>
-/// 
-/// </summary>
-/// <value></value>
 rootCmd.SetHandler((file) =>
 {
     ReadFile(file!);
